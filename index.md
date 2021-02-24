@@ -1,19 +1,21 @@
 ## GIS3DTS GitHub Pages
 
-You can see the [body of work](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstylecaster.com%2Fbeauty%2Fjessica-alba-health%2F&psig=AOvVaw2nzm7eEJVvvb1huKMtbEF-&ust=1614284836558000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDF7vCtg-8CFQAAAAAdAAAAABAD) and preview the content of my website in Markdown files.
+You can see my [body of work](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstylecaster.com%2Fbeauty%2Fjessica-alba-health%2F&psig=AOvVaw2nzm7eEJVvvb1huKMtbEF-&ust=1614284836558000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDF7vCtg-8CFQAAAAAdAAAAABAD) and preview the content of my websites in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whatever your passion, the right code will get you there faster. Whatever your interests, you can explore them in new ways here.
 
-### Markdown
+### Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Graduated from Chubb TopGun programming school in 1996. Worked as a code maintainer and software deveoper in the insurance, pharmacetical, financial and retail industries.
 
 ```markdown
-Syntax highlighted code block
+Languages, I've known a few.
 
-# Header 1
-## Header 2
-### Header 3
+# Python
+## Javascript
+### SQL
+#### Visual Basic
+##### Cobol
 
 - Bulleted
 - List
